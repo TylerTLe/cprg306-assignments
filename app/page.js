@@ -17,6 +17,10 @@ export default function Home() {
                 {/* Inset week3 when needed */}
                 <a href="#">Week 3</a>
               </li>
+              <li>
+                {/* Inset week3 when needed */}
+                <a href="#">Week 4</a>
+              </li>
             </ul>
           </p>
         </div>
