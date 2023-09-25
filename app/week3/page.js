@@ -6,6 +6,7 @@ export default function Home() {
       <main className="bg-slate-950">
         <div>
             <h2 className="text-3xl font-bold m-2">Shopping List</h2>
+            <ul>
             {items.map((item, index) => (
           <Item
             key={index}
@@ -14,6 +15,7 @@ export default function Home() {
             category={item.category}
           />
         ))}
+        </ul>
         </div>
       </main>
     );
