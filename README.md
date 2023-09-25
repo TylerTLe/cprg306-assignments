@@ -1,1 +1,1 @@
-The page can be visiting [here](https://cprg306-assignments-tyler-le.vercel.app/)
+The page can be visiting at https://cprg306-assignments-tyler-le.vercel.app/
