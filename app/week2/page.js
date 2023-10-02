@@ -1,4 +1,4 @@
-import StudentInfo from "./StudentInfo"
+import StudentInfo from "../StudentInfo";
 
 export default function Home() {
   return (
@@ -8,5 +8,5 @@ export default function Home() {
         <StudentInfo />
       </div>
     </main>
-  )
+  );
 }
