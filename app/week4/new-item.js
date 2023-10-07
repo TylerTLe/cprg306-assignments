@@ -84,7 +84,7 @@ function NewItemForm() {
     setName("");
     setQuantity(1);
     setCategory("produce");
-    toast.success(`${quantity} ${name} in ${category} added!`);
+    toast.success(`${quantity} ${name} in ${category} added to shopping list!`);
   }
 
   return (

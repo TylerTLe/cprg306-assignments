@@ -20,7 +20,7 @@ export default function Home() {
                 <Link href="week4">Week 4</Link>
               </li>
               <li>
-                <Link href="#">Week 5 (coming soon)</Link>
+                <Link href="#">Week 5(coming soon)</Link>
               </li>
             </ul>
           </div>
