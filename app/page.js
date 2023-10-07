@@ -18,7 +18,7 @@ export default function Home() {
               </li>
               <li>
                 {/* Inset week4 when needed */}
-                <Link href="#">Week 4</Link>
+                <Link href="week4">Week 4</Link>
               </li>
             </ul>
           </div>
