@@ -6,7 +6,7 @@ import React from "react";
 
 export default function ItemList({ items }) {
   const [sortBy, setSortBy] = useState("Name");
-  const sortedItems = items.sort((a, b) => {
+  const sortedItems = [...items].sort((a, b) => {
     if (sortBy === "Name") {
       if (a.name < b.name) {
         return -1;
