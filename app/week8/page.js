@@ -4,10 +4,10 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
+      <div className="items-center justify-center flex mt-40 text-4xl border-b-2">
         <Link href="../week8/shopping-list
         ">
-          Link to Week 8 Shopping List
+          Click here to go to Week 8 Shopping List
         </Link>
       </div>
     </main>

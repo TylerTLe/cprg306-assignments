@@ -39,7 +39,7 @@ export default function Navbar() {
     <div className='border-b-2 h-20 w-full flex items-center justify-between'>
         <ul className='flex'>
             <li className='p-2 cursor-pointer'>
-                <Link href="https://cprg306-assignments-tyler-le.vercel.app/">Home</Link>
+                <Link className="ml-4" href="https://cprg306-assignments-tyler-le.vercel.app/">Home</Link>
             </li>
         </ul>
 
